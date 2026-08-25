@@ -39,3 +39,6 @@ A mandatory minimum interference floor ($i_{\min} > 0$) required to maintain con
 *This repository serves as the definitive, independent repository for the HIRS framework. For inquiries, mathematical audits, or correspondence, please reach out via the email listed above.*
 
 ---
+## 🔑 Cryptographic Verification
+* **SHA-256 Signature Asset Tracking ID:** `4b7fbde53dc2...`
+* Verifiable via decentralized open-source consensus ledgers to permanently anchor legal priority and completion timeline.
